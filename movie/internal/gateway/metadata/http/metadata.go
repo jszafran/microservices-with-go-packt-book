@@ -4,7 +4,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	model "movieexample.com/metadata/pkg"
+	model "movieexample.com/metadata/pkg/model"
 	"movieexample.com/movie/internal/gateway"
 	"net/http"
 )
